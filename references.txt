@@ -1,0 +1,5 @@
+https://developers.google.com/speed/webp/docs/using
+
+https://github.com/WhatsApp/stickers/tree/master/Android#sticker-art-and-app-requirements
+
+https://www.npmjs.com/package/cwebp-bin
